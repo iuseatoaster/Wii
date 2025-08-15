@@ -3,7 +3,7 @@ Start of a god tier wii mod repository
 
 xyzzy-mod.zip is for modded full hardware access.
 
-pi1 solves pi
+Pi1.1.zip solves pi
 
 
 By Toaster
